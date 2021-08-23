@@ -1,0 +1,1 @@
+# p319-17.23.08.2021-Interface-Sealed-class-sealed-method
